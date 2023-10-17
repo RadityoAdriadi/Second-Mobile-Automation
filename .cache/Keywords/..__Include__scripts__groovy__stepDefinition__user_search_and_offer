@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "319B7AF883E6A82488F4A57014AC3763",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_search_and_offer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

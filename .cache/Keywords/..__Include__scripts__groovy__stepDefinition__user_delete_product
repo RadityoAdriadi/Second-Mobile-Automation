@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "92DA74DEBE1CAD351238BAD15F6C2416",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_delete_product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

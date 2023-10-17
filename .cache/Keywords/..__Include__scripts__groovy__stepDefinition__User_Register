@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "358BE9613C4ED56000980DC60CB459F7",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.User_Register",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

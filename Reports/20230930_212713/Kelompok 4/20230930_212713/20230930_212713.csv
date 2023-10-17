@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Kelompok 4,,,,2023-09-30 21:27:17,2023-09-30 21:42:17,14m - 59.457s,PASSED
+,,,,,,,
+Test Cases/cucumber/cucumber,,,,2023-09-30 21:27:18,2023-09-30 21:42:17,14m - 58.895s,PASSED
+runWithCucumberRunner(Runner),,,,2023-09-30 21:27:18,2023-09-30 21:42:17,14m - 58.370s,PASSED

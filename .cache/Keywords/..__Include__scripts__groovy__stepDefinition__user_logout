@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "82845B174D44732F7F97AAE08B56F668",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_logout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

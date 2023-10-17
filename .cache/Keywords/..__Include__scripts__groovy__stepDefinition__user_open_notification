@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "ED6C0E797E983FED15495B4EB17B3295",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_open_notification",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
